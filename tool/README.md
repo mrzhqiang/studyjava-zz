@@ -18,8 +18,8 @@
 对于我而言，目前使用的是Atom。作为代码查看工具，它足够漂亮也足够清晰，支持git和markdown，让我像使用IntelliJ IDEA一样身心愉悦。并且当打开一个源代码文件时，它会自动囊括文件所在工程，不用逐个打开浏览。比较适合用来检阅源代码，编辑说明文档，撰写读书笔记。
 
 以下是开发工具，适合项目开发，拥有更高效的能力
-- [ ] [Eclipse](https://www.eclipse.org/home/index.php)：强大、快速、体积小
-- [x] [IntelliJ IDEA](https://www.eclipse.org/home/index.php)：强大、智能、无与伦比的开发体验
+- [X] [Eclipse](https://www.eclipse.org/home/index.php)：强大、快速、体积小，适合初学者
+- [x] [IntelliJ IDEA](https://www.eclipse.org/home/index.php)：强大、智能、无与伦比的开发体验，进阶必备
 
 之前使用Eclipse有一段时间，也曾钦佩它的强大之处，但总觉得有所欠缺。直到遇见IntelliJ IDEA，体验过它的智能化，很快就爱上了这个开发工具。
 
