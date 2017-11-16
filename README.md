@@ -6,7 +6,7 @@ Java再回首，重新探索这个精彩的世界。
     
 #### 一、了解
 在相亲时，要了解对方，通常要知道对方的三点...你想多了，三点当然是：What？Why？How？学习Java和相亲其实差不多。
-- Java是什么？
+- [Java是什么？](https://github.com/mrzhqiang/studyjava-zz/blob/master/note/Java%E6%98%AF%E4%BB%80%E4%B9%88.md)
 - 为什么选Java？
 - 怎么样使用Java？
     
