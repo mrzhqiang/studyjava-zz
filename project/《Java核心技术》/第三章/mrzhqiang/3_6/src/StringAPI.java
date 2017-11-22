@@ -58,8 +58,9 @@ public class StringAPI {
 		
 		show("aaaaa".toUpperCase());// AAAAA
 		
-		show("   头部空格+尾部空格  ".trim());// "头部空格+尾部空格"
+		show("   头部空格+  尾部空格  ".trim());// "头部空格+尾部空格"
 		
+		show(String.join("_", "2", "3"));
 		// 看到方法名字倾斜了，我就知道这是一个静态方法，所以用类的名字去调用
 		show(String.join("+", "1", "2", "3"));// 1+2+3
 	}
