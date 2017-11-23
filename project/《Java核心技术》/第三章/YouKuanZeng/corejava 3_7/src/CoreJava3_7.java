@@ -3,7 +3,7 @@ import java.io.PrintWriter;
 import java.nio.file.Paths;
 import java . util . * ;
 public class CoreJava3_7 {
-	public static void main (String[]args ) throws IOException{
+	public static void main (String[] args) throws IOException{
 		//Scanner in = new Scanner (System.in) ;
 		/*System.out.print ( " wo bu ai ni la? " ) ;
 		String Doubi = in.nextLine();
@@ -14,7 +14,14 @@ public class CoreJava3_7 {
 		double age = in.nextDouble();*/
 		/*double x = 100000.0;
 		System.out.println(x);*/
-		//Scanner in1 = new Scanner(Paths.get("myfile.txt"),"UTF-8");
+		
+		
+		/*Scanner in1 = new Scanner(Paths.get("E:\\baidu download\\update.xml"),"UTF-8");
+		while(in1.hasNextLine()) {
+			show(in1.nextLine());
+		}*/
+		
+		
 		PrintWriter out = new PrintWriter("myfile.txt","UTF-8");
 		out.println("mrzhqiang");
 		out.flush();
