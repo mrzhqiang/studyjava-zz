@@ -7,4 +7,6 @@ class AnyClass {
 	String name4;
 	public void doString() {
 	}
+	
+	// TODO main
 }

@@ -7,4 +7,6 @@ public class PublicClass {
 	String name4;
 	void doString() {
 	}
+	
+	// TODO main
 }

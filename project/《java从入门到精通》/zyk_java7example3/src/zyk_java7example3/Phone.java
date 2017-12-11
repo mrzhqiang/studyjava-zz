@@ -5,6 +5,7 @@ public class Phone {
 	public Phone(String title) {
 		System.out.println("售出手机：" + title);
 		counter++;
+// FIXME 格式 
 }
 	public static int getCounter() {
 		return counter;
