@@ -6,5 +6,4 @@ public class TestMain {
 			System.out.println(args[i]);
 		}
 	}
-	// FINISH
 }

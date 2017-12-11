@@ -5,14 +5,13 @@ public class StaticTest {
 	static int id;
 	// FIXME 空的静态方法
 	public static void method1() {
-		
 	}
 // FIXME 格式
-public void method2() {
-	System.out.println(StaticTest.PI);
-	System.out.println(StaticTest.id);
-	StaticTest.method1();
-}
+	public void method2() {
+		System.out.println(StaticTest.PI);
+		System.out.println(StaticTest.id);
+		StaticTest.method1();
+		}
 
 // 解答：静态属于类，其他的属于对象；类是载体，对象是实例。this代表对象，所以不能使用
 // 解答：调用非静态方法时，实际上用的是this去调用，所以也不能被直接调用
