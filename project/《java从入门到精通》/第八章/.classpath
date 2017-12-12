@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="zyk_java_8_12/src"/>
+	<classpathentry kind="src" path="zyk_java_8_3/src"/>
+	<classpathentry kind="src" path="zyk_java_8_4/src"/>
+	<classpathentry kind="src" path="zyk_java_8_5/src"/>
+	<classpathentry kind="src" path="zyk_java_8_8/src"/>
+	<classpathentry kind="output" path="zyk_java_8_12/bin"/>
+</classpath>
