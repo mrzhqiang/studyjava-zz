@@ -1,4 +1,4 @@
-package com.github.youkuanzeng.java8example2;
+package com.github.youkuanzeng.java8example_2;
 
 import java.awt.Point;
 
