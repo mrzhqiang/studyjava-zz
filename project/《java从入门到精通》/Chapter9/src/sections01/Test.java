@@ -23,6 +23,8 @@ public class Test {
 		
 
 		System.out.println(people3.getName());
+		
+		
 	}
 
 }

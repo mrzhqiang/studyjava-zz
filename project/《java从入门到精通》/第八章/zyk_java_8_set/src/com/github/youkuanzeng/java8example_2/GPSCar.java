@@ -15,4 +15,11 @@ public class GPSCar extends Car implements GPS {
 		sb.append("£¬×ø±ê£º(" + getLocation().x + "," + getLocation().y + ")");
 		return sb.toString();
 	}
+	
+	public static void main(String[] args) {
+		Car car = new GPSCar();
+		car.setName("ÂêÉ¯À­µÙ");
+		car.setSpeed(212.11);
+		System.out.println(car);
+	}
 }

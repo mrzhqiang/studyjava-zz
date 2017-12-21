@@ -1,6 +1,6 @@
 package com.github.youkuanzeng.java8example_3;
 
-import java.sql.Date;
+import java.util.Date;
 
 public class Employee {
 	private String name;

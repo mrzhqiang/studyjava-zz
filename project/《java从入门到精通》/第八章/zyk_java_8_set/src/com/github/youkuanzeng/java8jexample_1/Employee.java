@@ -27,7 +27,10 @@ public class Employee implements Comparable<Employee> {
 		sb.append("员工 的年龄：" + age);
 		return sb.toString();
 	}
-	/*public static void main(String[] args) {
-		System.out.println(sb);
-	}*/
+	
+	public static void main(String[] args) {
+		Employee e1 = new Employee(1, "zyk", 26);
+		Employee e2 = new Employee(2, "mrzh", 26);
+		System.out.println("e1:"+e1+", e2:"+e2+", compare:"+e1.compareTo(e2));
+	}
 }

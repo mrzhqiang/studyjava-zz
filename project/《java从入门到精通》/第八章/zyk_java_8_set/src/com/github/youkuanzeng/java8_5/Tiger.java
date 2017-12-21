@@ -6,4 +6,9 @@ public class Tiger extends Beast {
 		super.skin = "ÌõÎÆ";
 		super.move();
 	}
+	
+	public static void main(String[] args) {
+		new Beast("µÙ»¨Ö®Ğã").move();
+		new Tiger();
+	}
 }

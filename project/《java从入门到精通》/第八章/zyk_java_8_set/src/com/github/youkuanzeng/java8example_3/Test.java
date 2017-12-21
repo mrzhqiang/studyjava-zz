@@ -1,17 +1,17 @@
 package com.github.youkuanzeng.java8example_3;
 
-import java.sql.Date;
+import java.util.Date;
 
 public class Test {
 	public static void main(String[] args) {
 		Employee employee = new Employee();
 		employee.setName("Java");
 		employee.setSalary(100);
-		employee.setBirthday(new Date(0));
+		employee.setBirthday(new Date());
 		Manager manager = new Manager();
 		manager.setName("youkuanzeng");
 		manager.setSalary(3000);
-		manager.setBirthday(new Date(0));
+		manager.setBirthday(new Date());
 		manager.setBonus(20000);
 		System.out.println("员工的姓名：" +employee.getName());
 		System.out.println("员工的工资：" +employee.getSalary());

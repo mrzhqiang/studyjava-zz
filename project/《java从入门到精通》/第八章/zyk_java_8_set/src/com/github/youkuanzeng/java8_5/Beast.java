@@ -11,6 +11,6 @@ public class Beast {
 	}
 
 	public void move() {
-		System.out.println("Εά");
+		System.out.println(skin+"--Εά");
 	}
 }

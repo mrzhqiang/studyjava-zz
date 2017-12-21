@@ -3,7 +3,7 @@ package sections02;
 public class Number {
 	int x;
 	
-	public static class Inner {
+	private static class Inner {
 		int x;
 		
 		public void setX(int x) {
