@@ -1,0 +1,25 @@
+﻿1. 下载IDEA 付费版，然后破解
+选择第三个选项
+http://intellij.mandroid.cn/
+
+2. 建立Play framework项目，安装Scala和SBT插件
+搜索SBT 安装
+刷新工程，下载SBT依赖
+其中依赖可以通过原有的.sbt 和.ivy2 压缩包，解压到用户User目录
+在Edit Configurations中选择SBT TASK后，在Tasks中输入run即可，注意Name要填一个合适的名字
+RUN一下，然后去浏览器访问localhost:9000即可
+
+3. 搜索MySQL下载，用户名root密码pass，安装所有必须的执行流程
+下载 Navicat for MySQL 
+以及破解工具http://download.csdn.net/download/dingyongjin/9654040
+
+4. 安装Redis 
+https://github.com/MicrosoftArchive/redis/releases
+http://blog.csdn.net/renfufei/article/details/38474435/
+（注意一下端口就行）
+
+桌面管理工具：
+https://redisdesktop.com/download
+
+这里是参考博客：
+http://blog.csdn.net/xiao336451/article/details/75619109
