@@ -9,5 +9,9 @@ public class Test {
 		jpg.save();
 		ImageSaver png = new PNGSaver();
 		png.save();
+
+		System.out.println(gif);
+		System.out.println(jpg);
+		System.out.println(png);
 	}
 }

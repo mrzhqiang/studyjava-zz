@@ -12,5 +12,10 @@ public class Cire implements ICalculate {
 	}
 	public static void main(String[] args) {
 		//System.out.println(args);
+		Cire c = new Cire();
+		 float area = c.getArea(10);
+		 System.out.println("area: "+area);
+		 float cir = c.getCircumference(20);
+		 System.out.println("cir: "+cir);
 	}
 }
