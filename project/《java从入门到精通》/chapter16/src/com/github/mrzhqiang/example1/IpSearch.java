@@ -1,7 +1,6 @@
 package com.github.mrzhqiang.example1;
 
 import java.io.*;
-import java.nio.charset.Charset;
 
 public class IpSearch extends Thread {
     private static final String LAN_PREFIX = "192.168.0.";
@@ -49,4 +48,5 @@ public class IpSearch extends Thread {
     public void setStartTime(long startTime) {
         this.startTime = startTime;
     }
+
 }
