@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
+//import java.util.concurrent.TimeUnit;
 
 public class MyTCP {
     private BufferedReader bufferedReader;
@@ -14,6 +15,7 @@ public class MyTCP {
     void getServer() {
         try {
             serverSocket = new ServerSocket(8998);
+//            serverSocket.setSoTimeout((int) TimeUnit.SECONDS.toMillis(10));
             System.out.println("套接字创建成功");
             for (; ; ) {
                 System.out.println("等待客户连接");
