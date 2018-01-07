@@ -46,7 +46,7 @@ public class ChatClient {
     public void createClientSocket() {
         try {
             // 112.81.4.230
-            socket = new Socket("192.168.0.10", 1234);
+            socket = new Socket("192.168.0.10", 8998);
             osw = new OutputStreamWriter(socket.getOutputStream());
             new ClientThread(socket).start();
         } catch (IOException e) {

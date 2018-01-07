@@ -17,7 +17,7 @@ public class ChatServer {
 
     public void createSocket() {
         try {
-            ServerSocket server = new ServerSocket(1234);
+            ServerSocket server = new ServerSocket(8998);
             while (true) {
                 System.out.println("等待客户端连接...");
                 // 等待客户连接，一旦有客户端请求连接，就创建一个对应的“服务人员”的套接字对象，进行服务
