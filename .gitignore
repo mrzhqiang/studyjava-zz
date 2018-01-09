@@ -1,4 +1,4 @@
-# Compiled class file
+﻿# Compiled class file
 *.class
 
 # Log file
@@ -28,3 +28,4 @@ Custom ignore
 *.iml
 project/《java从入门到精通》/chapter11/.idea/
 project/《java从入门到精通》/chapter17/.idea/
+/.idea
