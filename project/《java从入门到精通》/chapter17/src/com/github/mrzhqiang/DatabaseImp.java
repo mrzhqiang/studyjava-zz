@@ -6,11 +6,11 @@ import java.sql.DriverManager;
 public class DatabaseImp implements IDatabase {
 
     // localhost ==> 112.81.4.230
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/chatper17";
+    private static final String DB_URL = "jdbc:mysql://106.14.6.174:3306/myqq";
     private static final String DRIVER = "com.mysql.jdbc.Driver";
 
-    // TODO 替换为 youkuanzeng 123456
-    private static final String USER = "root";
+//    private static final String USER = "youkuanzeng";
+    private static final String USER = "mrzhqiang";
     private static final String PASSWORD = "123456";
 
     @Override
