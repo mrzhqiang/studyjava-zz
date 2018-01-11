@@ -11,11 +11,11 @@ Java再回首，重新探索这个精彩的世界。
 ## 计划
 
 ### 一、了解
-- [Java是什么？](https://github.com/mrzhqiang/studyjava-zz/blob/master/note/Java%E6%98%AF%E4%BB%80%E4%B9%88.md)——java是一门编程语言，基于C++，摒弃糟粕，吸收精华，更方便程序员开发项目，仅此而已
-- [为什么选Java？](https://github.com/mrzhqiang/studyjava-zz/blob/master/note/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89java.md)
+- [Java是什么？](https://github.com/mrzhqiang/studyjava-zz/blob/master/note/Java%E6%98%AF%E4%BB%80%E4%B9%88.md)——java是一门编程语言，基于C++，摒弃糟粕，吸收精华，更方便程序员开发项目
+- [为什么选Java？](https://github.com/mrzhqiang/studyjava-zz/blob/master/note/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89java.md)——java依然是最热门的开发语言，并且它的开源库特别多
 - 怎么样使用Java？
 
-### 二、计划
+### 二、内容
 任何情况下，想要精通一门技术，必须先打牢基础。
 java程序开发也是一样。
 针对基础的学习，越扎实越能让开发显得驾轻就熟，而不会花费大量时间在层出不穷的问题上。
