@@ -14,3 +14,4 @@ TODO
 
 ### 工具指南
 [IDEA指南](https://www.jetbrains.com/help/idea/discover-intellij-idea.html) 英文更酸爽，看多了就会觉得，也不过如此——尽管还需要翻译词典
+[JavaAPI](http://www.oracle.com/technetwork/cn/java/javase/documentation/api-jsp-136079-zhs.html)
