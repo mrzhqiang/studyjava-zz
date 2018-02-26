@@ -19,3 +19,6 @@ TODO
 
 ### 后台相关
 [RESTful API的最佳实践](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+### 开发者社区
+[IBM developerWorks](https://www.ibm.com/developerworks/cn/views/java/libraryview.jsp)：一个看起来高大上的Java开发者社区，中文
