@@ -1,4 +1,4 @@
-package com.github.mrzhqiang.section1;
+package com.github.mrzhqiang.section2;
 
 import java.util.Date;
 import org.junit.Assert;

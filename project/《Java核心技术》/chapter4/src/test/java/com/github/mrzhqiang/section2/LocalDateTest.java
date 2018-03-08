@@ -1,4 +1,4 @@
-package com.github.mrzhqiang.section1;
+package com.github.mrzhqiang.section2;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -64,6 +64,6 @@ public class LocalDateTest {
         System.out.println();
       }
     }
-    // 这比不包含Java1.8特性的《Java核心技术》第八版中的实现，要简单清晰很多
+    // 这比《Java核心技术》第九版中的实现(不包含Java1.8)，要简单清晰很多
   }
 }
