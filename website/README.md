@@ -2,7 +2,7 @@
 由于篇幅有限，精力不足以完全覆盖java的全部面目，这里将罗列出一些优秀的博客，针对java的进一步探索。另外一些比较不错的文章，或者开发交流网站，或者任何有意义的网址链接，都将出现在这里，以备随时参考。
 
 ### 常识原理
-TODO
+[基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 
 ### 设计模式
 [传送门](https://github.com/iluwatar/java-design-patterns) 这个是github上的样例，目前斩获26714个收藏，8527个fork，算是顶级热门的项目。
